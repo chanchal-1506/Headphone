@@ -244,7 +244,7 @@ form input[type=text]{
 
   h2 {
       font-size: 1.25rem;
-      line-height: 1rem;
+      line-height: 1.5rem;
       margin-bottom: 5px;
   }
   .text-sec{
@@ -293,5 +293,6 @@ form input[type=text]{
     form input[type=email]{
         width:80%;
     }
+    
    
 }
